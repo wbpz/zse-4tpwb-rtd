@@ -8,4 +8,4 @@ Strona główna
 
    Strona Główna <index>
    Sprawozdanie z RtD <Sprawozdanie z RtD>
-   Kontkat <kontakt>
+   Kontakt <kontakt>
