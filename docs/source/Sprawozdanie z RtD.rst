@@ -164,13 +164,13 @@ B
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 ===============================
-.. figure:: /image.png
+.. figure:: image.png
    :alt: Alternatywny tekst.
 
    Podpis
 Zapisane jako:
 ::
-   .. figure:: /image.png
+   .. figure:: image.png
       :alt: Alternatywny tekst.
    
       Podpis
