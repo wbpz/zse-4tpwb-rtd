@@ -7,3 +7,5 @@ Strona główna
    :titlesonly:
 
    Strona Główna <index>
+   Sprawozdanie z RtD <Sprawozdanie z RtD>
+   Kontkat <kontakt>
