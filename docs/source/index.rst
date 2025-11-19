@@ -5,7 +5,7 @@ Strona główna
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 1
+   :maxdepth: 0
 
    Strona Główna <index>
    Sprawozdanie z RtD <Sprawozdanie z RtD>
