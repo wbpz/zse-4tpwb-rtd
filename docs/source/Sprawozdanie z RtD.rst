@@ -164,11 +164,18 @@ B
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 ===============================
-.. figure:: image.png
+.. figure:: /image.png
+   :alt: Alternatywny tekst.
 
-   Alternatywny tekst.
+   Podpis
+Zapisane jako:
+::
+   .. figure:: /image.png
+      :alt: Alternatywny tekst.
+   
+      Podpis
 
-Tabela (jeżeli istnieje)
+Tabela
 ===============================
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
